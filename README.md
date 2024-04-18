@@ -1,6 +1,6 @@
 Olá, Eu sou Jade Brandão!
 
-- 🔭 Hoje eu trabalho com Analise de Sistemas 
+- 🔭 Hoje eu trabalho com Analise de Suporte Computacional
 - 🌱 Estudante de JavaScript
 
 Linguagens e Ferramentas:
